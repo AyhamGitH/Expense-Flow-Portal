@@ -24,23 +24,6 @@ npm i
 npm run dev
 ```
 
-## Development Options
-
-**Local Development**
-- Use your preferred IDE
-- Clone the repository
-- Make changes locally
-- Push changes to the repository
-
-**GitHub Direct Editing**
-- Navigate to the desired file
-- Click the "Edit" button (pencil icon)
-- Make changes and commit
-
-**GitHub Codespaces**
-- Access from repository's "Code" button
-- Launch new codespace
-- Edit and commit directly in the browser
 
 ## Technology Stack
 
@@ -50,16 +33,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## Deployment
-
-The project can be deployed using standard deployment procedures through your preferred hosting service. Configure your deployment settings according to your organization's requirements.
-
-## Domain Configuration
-
-To set up a custom domain:
-1. Configure DNS settings with your domain provider
-2. Update deployment configuration
-3. Set up SSL certificates as needed
-
-For technical support, contact the development team at [your-team-email]
